@@ -1,0 +1,31 @@
+# Qt Creator
+.qtcreator/
+*.user
+
+# CMake build directories
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Compiled files
+*.exe
+*.dll
+*.o
+*.obj
+*.a
+*.lib
+*.so
+
+# Debug files
+*.pdb
+*.ilk
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

@@ -1,0 +1,30 @@
+Car|C001|Toyota|Corolla|450.00|0|4|5
+Car|C002|Toyota|Fortuner|850.00|1|4|7
+Motorcycle|M001|Honda|CBR 600RR|350.00|0|600
+Car|C003|Toyota|Hilux|780.00|0|2|5
+Car|C004|Volkswagen|Polo Vivo|320.00|0|4|5
+Motorcycle|M002|Yamaha|MT-07|380.00|1|689
+Car|C005|Volkswagen|Golf 8 GTI|1100.00|1|4|5
+Car|C006|BMW|3 Series|950.00|0|4|5
+Motorcycle|M003|Kawasaki|Ninja 400|310.00|0|400
+Car|C007|BMW|X5|1800.00|0|4|5
+Car|C008|Mercedes-Benz|C-Class|1250.00|1|4|5
+Motorcycle|M004|BMW|GS 1250|980.00|0|1254
+Car|C009|Mercedes-Benz|GLC|1600.00|0|4|5
+Car|C010|Ford|Ranger|780.00|0|2|5
+Motorcycle|M005|KTM|Duke 390|270.00|1|390
+Car|C011|Ford|EcoSport|560.00|1|4|5
+Car|C012|Hyundai|Tucson|740.00|0|4|5
+Motorcycle|M006|Suzuki|GSX-R750|490.00|0|750
+Car|C013|Hyundai|i20|350.00|0|4|5
+Car|C014|Kia|Sportage|760.00|1|4|5
+Motorcycle|M007|Ducati|Monster 937|850.00|0|937
+Car|C015|Nissan|Navara|820.00|0|2|5
+Car|C016|Mazda|CX-5|890.00|0|4|5
+Motorcycle|M008|Royal Enfield|Meteor 350|220.00|1|350
+Car|C017|Suzuki|Swift|340.00|0|4|5
+Car|C018|Haval|H6|710.00|1|4|5
+Motorcycle|M009|Triumph|Street Triple|680.00|0|765
+Car|C019|Renault|Kwid|270.00|0|4|5
+Car|C020|Chery|Tiggo 4 Pro|650.00|0|4|5
+Motorcycle|M010|Harley-Davidson|Iron 883|590.00|1|883
